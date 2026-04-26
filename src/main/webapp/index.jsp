@@ -523,7 +523,7 @@
 
             <nav class="main-nav" id="mainNav" aria-label="Primary navigation">
                 <ul>
-                    <li><a href="#"><em class="fas fa-home"></em> Illu</a></li>
+                    <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
                     <li class="has-dropdown" aria-haspopup="true">
                         <a href="#" id="catMenuBtn"><em class="fas fa-th-large"></em> Categories <em class="fas fa-chevron-down" style="font-size:12px;"></em></a>
                     </li>
@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Ganesh  Merchants - Dresses</h1>
+                <h1>Ganesh  Traders</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
